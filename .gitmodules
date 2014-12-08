@@ -1,0 +1,21 @@
+[submodule "pos_simple/feng-yang-qi-jun/pos3"]
+	path = pos_simple/feng-yang-qi-jun/pos3
+	url = https://github.com/wfsovereign/pos3.git
+[submodule "pos_simple/zhang-hang/pos"]
+	path = pos_simple/zhang-hang/pos
+	url = https://github.com/littletwoblack/pos.git
+[submodule "pos_simple/wangzhongbi/POS"]
+	path = pos_simple/wangzhongbi/POS
+	url = https://github.com/wangzhongbi/POS.git
+[submodule "pos_jquery/wangzhongbi/Pos-jquery"]
+	path = pos_jquery/wangzhongbi/Pos-jquery
+	url = https://github.com/wangzhongbi/Pos-jquery.git
+[submodule "pos_simple/zhaopeng"]
+	path = pos_simple/zhaopeng
+	url = https://github.com/zhaopengn/pos.git
+[submodule "pos_simple/zengpuyang"]
+	path = pos_simple/zengpuyang
+	url = https://github.com/zengpuyang/pos.git
+[submodule "pos_simple/chensen"]
+	path = pos_simple/chensen
+	url = https://github.com/chansir1995/pos.git
